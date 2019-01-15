@@ -1,6 +1,7 @@
 #Course project 2 for EDA on coursera
 This files are rough draft for my learning and a way to see how much 
-I did over th time.
+
+I did over the time.
 
 This repos contain:
 -plot1.R & plot1.png
