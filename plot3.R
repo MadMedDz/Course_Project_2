@@ -16,7 +16,7 @@ NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds") 
 
 #preparing the data
-library(dplyr)
+library(tidyverse)
 
 nei_maryland_emissions <- 
   NEI %>% 
